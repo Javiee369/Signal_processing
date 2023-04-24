@@ -1,4 +1,4 @@
-# SIGNAL PROCESSING
+# SIGNAL PROCESSING quiere porro
 > Universidad Tecnológica de Pereira
 
 ***Signal analysis project 1st semester 2023***
@@ -20,5 +20,5 @@ The industrial low voltage network is configured as shown in the single line dia
     -The reactive power values per phase and total. 
     -The apparent power values per phase and total.
     ```
-    
+
 [Repository](https://raw.githubusercontent.com/JulianDPastrana/signal_analysis/main/seniales_sep.py) use for this project.
