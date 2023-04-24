@@ -1,4 +1,4 @@
-# SIGNAL PROCESSING     quieres porro
+# SIGNAL PROCESSING
 > Universidad Tecnológica de Pereira
 
 ***Signal analysis project 1st semester 2023***
