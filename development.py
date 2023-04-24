@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # The function that generates the signals is imported
-# cualquier cosa
 from seniales_sep import signal_generation  
 
 data = signal_generation()  # The signs are contained in a dictionary
