@@ -1,4 +1,4 @@
->### SIGNAL PROCESSING
->Universidad Tecnológica de Pereira
+# SIGNAL PROCESSING
+> Universidad Tecnológica de Pereira
 
-There's something
+Repository used for this project [Repository](https://raw.githubusercontent.com/JulianDPastrana/signal_analysis/main/seniales_sep.py).
