@@ -2,6 +2,7 @@ import numpy as np
 from random import random
 import matplotlib.pyplot as plt
 
+# From repository
 def signal_generation():
     # Parameters
     F = 60
