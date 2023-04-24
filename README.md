@@ -1,2 +1,2 @@
->### Signal_processing
->_J Javier Cerón_
+>### SIGNAL PROCESSING
+>Universidad Tecnológica de Pereira
