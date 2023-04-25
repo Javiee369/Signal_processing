@@ -121,7 +121,7 @@ print("ACTIVE POWER [W]")
 print(f'NODO 1: {P_N1[0]: .4f} {P_N1[1]: .4f} {P_N1[2]: .4f}')
 print(f'NODO 2: {P_N2[0]: .4f} {P_N2[1]: .4f} {P_N2[2]: .4f}')
 print(f'NODO 3: {P_N3[0]: .4f} {P_N3[1]: .4f} {P_N3[2]: .4f}')
-print(f'P TOTAL: {Tot_P}')
+print(f'P TOTAL: {Tot_P }')
 
 # From S^2 = P^2 - Q^2 clear Q
 Q_N1 = np.sqrt((S_N1**2)-(P_N1**2))
