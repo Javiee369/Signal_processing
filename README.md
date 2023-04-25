@@ -1,7 +1,7 @@
 # SIGNAL PROCESSING
 > Universidad Tecnológica de Pereira
 
-***Signal analysis project 1st semester 2023***
+***Signal analysis project 1st semester 2023.***
 
 Develop a Python program to calculate the electrical parameters of an industrial low-voltage network.
 
