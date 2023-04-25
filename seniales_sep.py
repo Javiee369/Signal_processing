@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # From repository
 def signal_generation():
-    # Parameters
+    # Parameters of system
     F = 60
     Ts = 1 / (100 * F)
     t = np.arange(0.0, 5 / 60, Ts)
